@@ -1,0 +1,2 @@
+B:\UniYear3\ImmTech\Pirates Plight\Pirate\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+B:\UniYear3\ImmTech\Pirates Plight\Pirate\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
